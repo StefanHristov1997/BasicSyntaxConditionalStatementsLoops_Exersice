@@ -1,2 +1,2 @@
-# BasicSyntaxConditionalStatementsLoops_Exersice_01
+# BasicSyntaxConditionalStatementsLoops_Exercise_01
  FundamentalsModule
